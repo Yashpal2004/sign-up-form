@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+}
+
+.sec-1 {
+    width: 30vw;
+    height: 100vh;
+    background-image: url("images/sukuna.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+    background-position-x: -350px;
+    min-width: 300px;
+    max-width: 500px;
+}
+
+.sec-2 {
+    padding: 5vh 10vw 10vw 10vw;
+    font-size: 20px;
+    font-weight: bold;
+}
